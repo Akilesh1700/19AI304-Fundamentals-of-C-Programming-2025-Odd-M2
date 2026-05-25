@@ -315,7 +315,7 @@ int main(){
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
-#Program:
+# Program:
 ```
 #include<stdio.h>
 
@@ -333,7 +333,7 @@ int main(){
     return 0;
 }
 ```
-#Output:
+# Output:
 <img width="509" height="386" alt="516083214-350008ba-9051-40d5-b613-01de603798dd" src="https://github.com/user-attachments/assets/14117fe3-5044-45d0-8257-7ade3afa21b1" />
 
 # Result:
